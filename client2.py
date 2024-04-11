@@ -16,7 +16,7 @@ existing_booking = None
 
 def window_one():
     window = Tk()
-    window.title("Client 1")
+    window.title("Client 2")
     window.geometry("400x300")
 
     seat_lbl = Label(window, text="Enter seat number:")
